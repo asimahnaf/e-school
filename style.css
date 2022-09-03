@@ -58,15 +58,15 @@ border-radius: 0px;
 
 
 /* card section-1 */
-.secton-2{
-    padding: 50px 50px;
+.section-2{
+    padding: 2%;
 }
-.card img{
+.card-1 img{
     width: 70px;
     height: 70px;
 }
 
-.card {
+.card-1 {
     padding-top: 2%;
     width: 250px;
     height: 250px;
@@ -74,7 +74,26 @@ border-radius: 0px;
     text-align: center;
     background: #F8FFFB;
 }
-.card:hover {
+.card-1:hover {
+    box-shadow: 10px 10px 40px gray;
+    background: white;
+}
+
+/* card-2 */
+.section-3{
+    padding: 3%;
+    text-align: center;
+
+}
+.peaple{
+    width: 30px;
+}
+.card-2 {
+    align-items: center;
+    text-align: center;
+    background: #F8FFFB;
+}
+.card-2:hover {
     box-shadow: 10px 10px 40px gray;
     background: white;
 }
