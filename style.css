@@ -1,0 +1,80 @@
+header{
+    background: #F0FFF0;
+
+}
+
+/* nav-bar */
+.icon-image img{
+height: 59px;
+width: 198.07142639160156px;
+border-radius: 0px;
+}
+.light-red{
+    color: #FD511A;
+
+}
+.light-green-background{
+    background: #21B573;
+}
+.light-green{
+    color: #21B573;
+}
+.nav-list a{
+    text-align: center;
+    padding: 12px 28px;
+    margin: 10px;
+    align-items: center;
+}
+
+.background a{
+    color: white;
+    width: 120px;
+    text-align: center;
+    border-radius: 50px;
+    padding: 12px 28px;
+    margin: 10px;
+    align-items: center;
+}
+.size{
+    
+    width: 150px !important;
+}
+.left-side h3, samp{
+    font-size: 40px;
+}
+.left-side p{
+    padding-bottom: 10%;
+    padding-top: 10%;
+}
+.right-site img{
+    padding: 20px;
+    width: 600px;
+    
+}
+.nich{
+    padding: 20px 20px;
+    margin: 10px;
+}
+
+
+/* card section-1 */
+.secton-2{
+    padding: 50px 50px;
+}
+.card img{
+    width: 70px;
+    height: 70px;
+}
+
+.card {
+    padding-top: 2%;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    text-align: center;
+    background: #F8FFFB;
+}
+.card:hover {
+    box-shadow: 10px 10px 40px gray;
+    background: white;
+}
